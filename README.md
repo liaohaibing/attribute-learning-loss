@@ -1,4 +1,4 @@
-# Tre_Loss
+# Attri_Loss
 The source codes for Attri_Loss:Loss function design based on time series attribute learning
 
 Datasets：
